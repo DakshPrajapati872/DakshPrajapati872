@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daksh Prajapati</h1>
 <h3 align="center">Software Developer | Web Developer</h3>
-<img aligh="right" src="https://stock.adobe.com/search?k=programmer+cartoon">
+<img align="right" src="https://stock.adobe.com/search?k=programmer+cartoon">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshprajapati872&label=Profile%20views&color=0e75b6&style=flat" alt="dakshprajapati872" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
