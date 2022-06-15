@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daksh Prajapati</h1>
 <h3 align="center">Software Developer | Web Developer</h3>
-<img align="right" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+<img align="right" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" width=300px>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshprajapati872&label=Profile%20views&color=0e75b6&style=flat" alt="dakshprajapati872" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
